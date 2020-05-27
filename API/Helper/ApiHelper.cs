@@ -8,8 +8,8 @@ namespace API
 {
     public static class ApiHelper
     {
-        private static string WowSecret = "Wjq6hL6VdQlGBFEfZqWs2Cf8zsaLgpYM";
-        private static string WowClientID = "d8a4545db82a4cdf9255b5ea517c0eee";
+        private static string WowSecret = "";
+        private static string WowClientID = "";
 
         public static string GetAccesToken()
         {
